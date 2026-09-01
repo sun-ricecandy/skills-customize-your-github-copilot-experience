@@ -72,6 +72,25 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "mini-to-do-web-app",
+      "title": "Mini To-Do Web App",
+      "description": "Build a small interactive to-do list app using HTML, CSS, and JavaScript",
+      "path": "assignments/mini-to-do-web-app",
+      "dueDate": "2026-09-08",
+      "attachments": [
+        {
+          "name": "Starter HTML",
+          "file": "starter-code.html",
+          "type": "html"
+        },
+        {
+          "name": "Starter JavaScript",
+          "file": "starter-code.js",
+          "type": "javascript"
+        }
+      ]
     }
   ]
 }
